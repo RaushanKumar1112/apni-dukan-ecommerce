@@ -14,6 +14,8 @@
 
 ## Connect to your mongodb and add info in .env
 
+### .env files include(database_url, cloud_name, cloud_api_secret, cloud_api_key, access_token_secret, refresh_token_secret)
+
 ## Add your paypal client id in client/src/components/mainpages/cart/PaypalButton.js
 
 ## Run the client & server with concurrently
